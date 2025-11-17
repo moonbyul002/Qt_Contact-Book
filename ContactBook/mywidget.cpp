@@ -4,7 +4,7 @@
 #include<QFile>
 #include<QDebug>
 
-QString mFilename = "C:/Users/user/Desktop/1117/file.txt";
+QString mFilename = "C:/test/myfile.txt";
 
 void Write(QString Filename, QString str){
 
